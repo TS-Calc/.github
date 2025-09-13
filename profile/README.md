@@ -32,11 +32,6 @@ Ultimately, TS Calc provides a **structured, professional-grade environment** fo
 
 ---
 
-![TS Calc Main Interface](https://static.macupdate.com/screenshots/309667/m/ts-calc-screenshot.png?v=1659596147)  
-_Modern macOS-native interface with structured formulas_
-
----
-
 ## 🎁 Key Features
 
 - 📊 **Structured Calculation Models** — Build auditable, transparent formula systems.  
